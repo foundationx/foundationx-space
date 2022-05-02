@@ -1,6 +1,6 @@
 (To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
-# Name (@github_id)
+# Joshua Shovan (@foundationx)
 
 optional tag-line
 
@@ -8,15 +8,20 @@ optional tag-line
 
 ## Bio
 
-optional bio
+I have designed, developed, and managed several web, software and mobile projects for over 27 years. 
+As well I have experience in Medical Supply Chain Management from manufacturing to end use placement, with posistions such as supervisor, Buyer, Sr Buyer, Internal Control Manager/Analyst, Materials Manager, etc. 
+
 
 ## Identities
-* [github](https://github.com/github_id)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
+* [github](https://github.com/foundationx)
+* [linkedin](https://www.linkedin.com/in/joshuashovan/)
 
 ## Roles
-* [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
+* [EDENomicon](https://cryptotechguru.github.io/Cryptonomicon/)
+  * [Player](https://nomicon.edenprotocol.io/Roles/Player/)
+  * [Maintainer](https://nomicon.edenprotocol.io/Roles/Maintainer/)
+
+* [Cryptonomicon](https://nomicon.edenprotocol.io/)
   * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
   
 ## Achievements
