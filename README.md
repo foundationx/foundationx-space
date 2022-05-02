@@ -2,8 +2,6 @@
 
 # Joshua Shovan (@foundationx)
 
-optional tag-line
-
 <img align="right" width="250" src="avatar.png">
 
 ## Bio
