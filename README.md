@@ -2,7 +2,7 @@
 
 # Joshua Shovan (@foundationx)
 
-<img align="right" width="250" src="avatar.png">
+![Image](https://github.com/foundationx/foundationx-space/blob/master/avatar.png)
 
 ## Bio
 
