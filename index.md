@@ -1,11 +1,11 @@
 # Joshua Shovan (@foundationx)
 
-<img align="right" width="250" src="avatar.png">
+![Image](https://github.com/foundationx/foundationx-space/blob/master/avatar.png)
 
 ## Bio
 
 I have designed, developed, and managed several web, software and mobile projects for over 27 years. 
-As well I have experience in Medical Supply Chain Management from manufacturing to end use placement, with posistions such as supervisor, Buyer, Sr Buyer, Internal Control Manager/Analyst, Materials Manager, etc. 
+As well I have experience in Medical Supply Chain Management from manufacturing to end use placement, with positions such as supervisor, Buyer, Sr Buyer, Internal Control Manager/Analyst, Materials Manager, etc. 
 
 
 ## Identities
